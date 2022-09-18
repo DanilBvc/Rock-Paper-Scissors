@@ -1,0 +1,7 @@
+.score__wrapper {
+    display: flex;
+    font-size: 26px;
+}
+.right-player, .left-player {
+    padding: 0px 10px;
+}
